@@ -1,7 +1,7 @@
 import os
 import shutil
 
-targetfile='/home/nrz/TestLab/frames/'
+targetfile='/home/nrz/FasterR-CNNdataset/Annotations'
 
 for filebox in os.listdir(targetfile):
     for pic in os.listdir(os.path.join(targetfile,filebox)):

@@ -2,8 +2,8 @@ import os
 
 from PIL import Image
 
-targetfilepath='testimagesavefile'
-outputpath='grayimage'
+targetfilepath='/home/nrz/VOCdevkit/VOC2012/JPEGImages_color'
+outputpath='/home/nrz/VOCdevkit/VOC2012/JPEGImages'
 if not os.path.exists(outputpath):
     os.makedirs(outputpath)
 targetfilelist=os.listdir(targetfilepath)

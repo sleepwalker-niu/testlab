@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>2022-07-11-09-38-550000000260.jpg</filename>
+	<path>/my-project-name/2022-07-11-09-38-550000000260.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>hualu</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>369</ymin>
+			<xmax>228</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hualu</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>299</ymin>
+			<xmax>125</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
